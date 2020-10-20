@@ -1,6 +1,6 @@
 ## EXPERIENCE
 
-### **InfoSlips**, Pretoria — *Lead Product Front End Software Engineer*  
+### **InfoSlips**, Pretoria - *Lead Product Front End Software Engineer*  
 *MARCH 2020 - PRESENT*  
 
 **Responsibilities:**  
@@ -25,7 +25,7 @@ Currently working as the lead product developer working on the architecture and 
 
 * Released Version 2 of the InfoSlips Viewer.
 
-### **InfoSlips**, Pretoria — *Web/Software Engineer*  
+### **InfoSlips**, Pretoria - *Web/Software Engineer*  
 *JANUARY 2018 - MARCH 2020*
 
 **Responsibilities:**
@@ -60,7 +60,7 @@ I’m also working on the Product team as a Full Stack Front End Engineer.
 * Created internal multiple internal tools eg: Friday Lunch ordering website (Angular/Firebase), Carwash App (Angular/Firebase), Internal Documentation (Angular/Gitlab) etc.
 * Created a .net Core 3 cross platform XSLT transform tool for Windows and Mac users.
 
-### **InfoSlips**, Pretoria — *Support/Web Development*
+### **InfoSlips**, Pretoria - *Support/Web Development*
 *JANUARY 2018 - MARCH 2018*
 
 **Responsibilities:**  
@@ -88,7 +88,7 @@ InfoSlips Helpdesk support and Web Development role with a lot of client relatio
 * Reworked the documents and implemented a new design for one of our biggest clients.
 * Went to meetings with client stakeholders to discuss design changes and do on site coding to fix bugs.
 
-### **NicmeisteR**, Pretoria — *Freelance Web Development*
+### **NicmeisteR**, Pretoria - *Freelance Web Development*
 *JANUARY 2017 - JANUARY 2018*
 
 **Responsibilities:**  
