@@ -33,7 +33,7 @@ AngularJS / Gulp / Angular 8+ / JavaScript ES6+ / TypeScript / REST / SCSS / CSS
 
 Handled the processing of data and creating data processor and services using C# while also creating front end apps that utilize the data.
 
-I’m also working on the Product team as a Full Stack Front End Engineer.
+I'm also working on the Product team as a Full Stack Front End Engineer.
 
 * Implement new product features.
 * Building the latest V2 version of our company's product.
