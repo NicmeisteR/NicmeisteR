@@ -20,6 +20,6 @@ I believe that working hard and improving myself is the key to success and spend
 
 The sky's the limit, so shoot for the stars.
 
-I 💙 code!
+I love code!
 
 Why don't we work together? I can guarantee that I will be an asset to the team.
