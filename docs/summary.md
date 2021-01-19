@@ -8,7 +8,7 @@
 
 ## SUMMARY
 
-I'm a 23 year old Web/Software Engineer from Pretoria (South Africa) currently based in Garstfontein. I love everything that has to do with development & innovation, graphic design, streaming and gaming.
+I'm a 23 year old Lead Front End Product Developer from Pretoria (South Africa) currently based in Garstfontein. I love everything that has to do with development & innovation, graphic design, streaming and gaming.
 
 I have a true devotion to automation and creativity.
 
