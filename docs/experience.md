@@ -1,11 +1,12 @@
 ## EXPERIENCE
 
-### **InfoSlips**, Pretoria - *Lead Product Front End Software Engineer*  
+### **InfoSlips**, Pretoria - *Lead Front End Product Developer*  
 *MARCH 2020 - PRESENT*  
 
-**Responsibilities:**  
+**Technologies:**  
 AngularJS / Gulp / Angular 10 / JavaScript ES6+ / TypeScript / REST / SCSS / Git / JIRA  / NodeJS / NPM / YARN / Bootstrap / Nebular  
 
+**Responsibilities:**  
 Currently working as the lead product developer working on the architecture and development of our two main products.  
 
 * Implement new product features.
@@ -28,9 +29,10 @@ Currently working as the lead product developer working on the architecture and 
 ### **InfoSlips**, Pretoria - *Web/Software Engineer*  
 *JANUARY 2018 - MARCH 2020*
 
-**Responsibilities:**
+**Technologies:**  
 AngularJS / Gulp / Angular 8+ / JavaScript ES6+ / TypeScript / REST / SCSS / CSS3 / Git / JIRA / Adobe PhotoShop / C# / .Net Core 3 / Babel / NodeJS / XSLT / NPM / YARN / Firebase / Bootstrap  
 
+**Responsibilities:**
 Handled the processing of data and creating data processor and services using C# while also creating front end apps that utilize the data.
 
 I'm also working on the Product team as a Full Stack Front End Engineer.
@@ -63,9 +65,10 @@ I'm also working on the Product team as a Full Stack Front End Engineer.
 ### **InfoSlips**, Pretoria - *Support/Web Development*
 *JANUARY 2018 - MARCH 2018*
 
-**Responsibilities:**  
+**Technologies:**  
 FreshDesk / AngularJS / Gulp / Angular 4+ / JavaScript ES6+ / TypeScript / REST / SCSS / CSS3 / Git / JIRA / Adobe PhotoShop / C# / .Net Core 2 / NodeJS / XSLT / NPM / Firebase / Bootstrap
 
+**Responsibilities:**  
 InfoSlips Helpdesk support and Web Development role with a lot of client relations.
 
 * Helped clients by assessing their issues to find solutions.
@@ -91,9 +94,10 @@ InfoSlips Helpdesk support and Web Development role with a lot of client relatio
 ### **NicmeisteR**, Pretoria - *Freelance Web Development*
 *JANUARY 2017 - JANUARY 2018*
 
-**Responsibilities:**  
+**Technologies:**  
 AngularJS / Gulp / JavaScript / TypeScript / REST / CSS3 / Git / Adobe PhotoShop / C# / NPM / Bootstrap / MSSQL
 
+**Responsibilities:**  
 Freelance Web Development for small businesses in South Africa.
 
 * Build consumer facing web applications.
