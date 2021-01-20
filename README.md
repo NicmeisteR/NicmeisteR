@@ -2,8 +2,8 @@
 [![Spying Counter](https://badges.pufler.dev/visits/NicmeisteR/NicmeisteR?style=for-the-badge&color=e74c3c&logo=github&label=Views+Counter)](https://github.com/NicmeisteR)
 [![Account Age](https://badges.pufler.dev/years/NicmeisteR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age)](https://github.com/NicmeisteR)
 [![Updated](https://badges.pufler.dev/updated/NicmeisteR/NicmeisteR?style=for-the-badge&color=f0f6f9&logo=github&label=Profile+Updated)](https://github.com/NicmeisteR)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NicmeistaR)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nicolaas-nel/)
 
 
 <!--
@@ -22,7 +22,7 @@ Here are some details about me:
 - 📫 How to reach me: [Twitter](https://www.twitter.com/NicmeistaR), [Twitch](https://www.twitch.tv/NicmeisteR) and [LinkedIn](https://www.linkedin.com/in/nicolaas-nel/).
 - ⚡ Fun fact: I'm a competive Halo player and streamer from South Africa!
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.](https://nicolaas.dev/)
 
 <br/>
 
