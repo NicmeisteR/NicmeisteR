@@ -1,4 +1,4 @@
-### ![Hello Friend, Welcome!](header.png)
+### ![Hello Friend, Welcome!](header.jpg)
 [![Spying Counter](https://badges.pufler.dev/visits/NicmeisteR/NicmeisteR?style=for-the-badge&color=e74c3c&logo=github&label=Views+Counter)](https://github.com/NicmeisteR)
 [![Account Age](https://badges.pufler.dev/years/NicmeisteR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age)](https://github.com/NicmeisteR)
 [![Updated](https://badges.pufler.dev/updated/NicmeisteR/NicmeisteR?style=for-the-badge&color=f0f6f9&logo=github&label=Profile+Updated)](https://github.com/NicmeisteR)
@@ -10,6 +10,14 @@
 **NicmeisteR/NicmeisteR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## About
+
+I'm a 23 year old Lead Front End Product Developer from Pretoria (South Africa). I love everything that has to do with development & innovation, graphic design, streaming and gaming. I also love going for rides on my Kawasaki ER6N.
+
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nicmstr) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NicmeistaR) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nicolaas-Nel) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/NicmeisteR) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/NicmeisteR)
+
+---
+
 Here are some details about me:
 
 - 🔭 I'm currently working on HaloEsportsGG, tournaments reinvented! An Esports platform focused on Halo.
@@ -19,7 +27,6 @@ Here are some details about me:
 - 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: [Twitter](https://www.twitter.com/NicmeistaR), [Twitch](https://www.twitch.tv/NicmeisteR) and [LinkedIn](https://www.linkedin.com/in/nicolaas-nel/).
 - ⚡ Fun fact: I'm a competive Halo player and streamer from South Africa!
 
 Want to know more about me? [Check out my portfolio.](https://nicolaas.dev/)
@@ -83,3 +90,6 @@ Want to know more about me? [Check out my portfolio.](https://nicolaas.dev/)
 
 ### 🎶 Now Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e1qdyuntee9jjlxwyexbkq75o&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=e1qdyuntee9jjlxwyexbkq75o&redirect=true)
+
+
+---
