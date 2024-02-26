@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a 25 year old Senior Software Engineer originally from Pretoria (South Africa) now in Alkmaar (Netherlands). I love everything that has to do with development & innovation, graphic design, streaming and gaming. I also love going for rides on my Kawasaki ZX10R and I absolutely adore cats.
+I'm a 26 year old Senior Software Engineer originally from Pretoria (South Africa) now in Alkmaar (Netherlands). I love everything that has to do with development & innovation, graphic design, streaming and gaming. I also love going for rides on my Kawasaki ZX10R and I absolutely adore cats.
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nicmstr) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NicmeistaR) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nicolaas-Nel) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/NicmeisteR) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/NicmeisteR)
 
